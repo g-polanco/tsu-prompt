@@ -7,10 +7,7 @@ Renders (ツ ➜) followed by the CWD followed by VCS info (if in a repo directo
 <br>
 Original repo renders (⚡ ➜) instead. 
 # Installation
-This prompt theme was designed to work with [zap](https://github.com/zap-zsh/zap).
-<br>
-<br>
-To install, add the following to your ```.zsh```.
+If you are using [zap](https://github.com/zap-zsh/zap), add the following to your ```.zsh```.
 <br>
 ```
 plug "g-polanco/tsu-prompt"
