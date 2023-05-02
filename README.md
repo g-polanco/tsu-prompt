@@ -11,3 +11,7 @@ This prompt theme was designed to work with [zap](https://github.com/zap-zsh/zap
 <br>
 <br>
 To install, add the following to your ```.zsh```.
+<br>
+```
+plug "g-polanco/tsu-prompt"
+```
